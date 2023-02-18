@@ -1,4 +1,4 @@
-package SwordForOffer;
+package SwordForOffer.day01_05;
 
 //剑指 Offer 06. 从尾到头打印链表
 public class PrintLinkedList {

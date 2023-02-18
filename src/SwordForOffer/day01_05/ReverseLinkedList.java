@@ -1,4 +1,4 @@
-package SwordForOffer;
+package SwordForOffer.day01_05;
 
 //剑指 Offer 24. 反转链表
 public class ReverseLinkedList {

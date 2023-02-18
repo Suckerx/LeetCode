@@ -1,4 +1,4 @@
-package SwordForOffer;
+package SwordForOffer.day01_05;
 
 //剑指 Offer 53 - II. 0～n-1中缺失的数字
 public class MissingNumber {

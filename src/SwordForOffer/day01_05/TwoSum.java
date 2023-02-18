@@ -1,4 +1,4 @@
-package SwordForOffer;
+package SwordForOffer.day01_05;
 
 import java.util.HashMap;
 import java.util.Map;

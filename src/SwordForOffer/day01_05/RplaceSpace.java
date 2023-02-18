@@ -1,4 +1,4 @@
-package SwordForOffer;
+package SwordForOffer.day01_05;
 
 //  剑指 Offer 05. 替换空格
 public class RplaceSpace {
