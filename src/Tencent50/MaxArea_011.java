@@ -1,12 +1,7 @@
 package Tencent50;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-
 //11. 盛最多水的容器
-public class MaxArea011 {
+public class MaxArea_011 {
 
     //双指针
     //https://leetcode.cn/problems/container-with-most-water/solutions/11491/container-with-most-water-shuang-zhi-zhen-fa-yi-do/?orderBy=hot
@@ -22,7 +17,7 @@ public class MaxArea011 {
     }
 
     public static void main(String[] args) {
-        MaxArea011 maxArea011 = new MaxArea011();
+        MaxArea_011 maxArea011 = new MaxArea_011();
         maxArea011.maxArea(new int[]{1,8,6,2,5,4,8,3,7});
     }
 

@@ -1,7 +1,7 @@
 package Tencent50;
 
 //9. 回文数
-public class IsPalindrome009 {
+public class IsPalindrome_009 {
 
     public boolean isPalindrome(int x) {
         String str = String.valueOf(x);
